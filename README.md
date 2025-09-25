@@ -1,4 +1,4 @@
-# Falcon 9 Landing Success Predictor — Data Science Capstone
+# Space X Landing Success Predictor — Data Science Capstone
 
 ## Abstract
 This project delivers an end-to-end data science workflow around SpaceX Falcon 9 launches, with the primary objective of **prediction**: modeling the probability that the first stage successfully lands based on launch characteristics (payload mass, orbit, launch site, flight number, etc.). The work spans data collection (API + scraping), cleaning and feature engineering, EDA (visual and SQL), geospatial analysis, supervised learning for classification, and an **interactive Plotly Dash dashboard** for stakeholders to explore patterns and model insights.
